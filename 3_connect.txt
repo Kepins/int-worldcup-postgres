@@ -1,0 +1,1 @@
+psql --dbname=worldcup --username=worldcup_admin --password
